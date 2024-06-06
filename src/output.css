@@ -553,3 +553,12 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+html, body {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.shops img {
+  margin-bottom: 31px;
+}

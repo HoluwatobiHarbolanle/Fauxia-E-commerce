@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
+html, body{
+    @apply bg-white
+}
+.shops img{
+    @apply mb-[31px]
+}
 @tailwind utilities;
