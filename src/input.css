@@ -6,4 +6,5 @@ html, body{
 .shops img{
     @apply mb-[31px]
 }
+
 @tailwind utilities;
